@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.obj
+*.out
+bin/
+obj/
+*.cbp
+*.depend
+*.layout
+.vscode/
+Thumbs.db
+Desktop.ini
+*.tmp
